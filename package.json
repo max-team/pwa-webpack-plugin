@@ -1,0 +1,18 @@
+{
+  "name": "mars-pwa-webpack-plugin",
+  "version": "0.0.1",
+  "description": "mars pwa webpack plugin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vue-cli"
+  ],
+  "author": "zhangjingyuan",
+  "license": "ISC",
+  "dependencies": {
+    "json-stable-stringify": "^1.0.1",
+    "lodash.template": "^4.4.0"
+  }
+}
