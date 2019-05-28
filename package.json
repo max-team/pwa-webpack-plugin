@@ -1,5 +1,5 @@
 {
-  "name": "mars-pwa-webpack-plugin",
+  "name": "@marsjs/pwa-webpack-plugin",
   "version": "0.0.1",
   "description": "mars pwa webpack plugin",
   "main": "index.js",
