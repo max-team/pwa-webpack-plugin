@@ -1,4 +1,4 @@
-# mars-pwa-webpack-plugin
+# @marsjs/pwa-webpack-plugin
 
 > pwa webapck plugin
 
